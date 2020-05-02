@@ -8,7 +8,6 @@ public class CustomerErrorResponse {
 	
 	public CustomerErrorResponse() {
 	}
-
 		
 	public CustomerErrorResponse(int status, String message, long timeStamp) {
 		super();
