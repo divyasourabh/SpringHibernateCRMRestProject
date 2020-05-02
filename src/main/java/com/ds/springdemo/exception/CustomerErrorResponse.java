@@ -7,6 +7,7 @@ public class CustomerErrorResponse {
 	private long timeStamp;
 	
 	public CustomerErrorResponse() {
+		
 	}
 		
 	public CustomerErrorResponse(int status, String message, long timeStamp) {
