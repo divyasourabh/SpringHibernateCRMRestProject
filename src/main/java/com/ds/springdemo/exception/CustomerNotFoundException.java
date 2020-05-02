@@ -22,5 +22,4 @@ public class CustomerNotFoundException extends RuntimeException{
 	public CustomerNotFoundException(Throwable cause) {
 		super(cause);
 	}
-
 }
